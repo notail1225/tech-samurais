@@ -1,7 +1,7 @@
 import React from "react";
 import "../../pages/About/AboutPage.css";
 import { Link } from "react-router-dom";
-import cv from "../../cv/cv.pdf";
+// import cv from "../../cv/cv.pdf";
 import { ButtomGet } from "../ButtomGet/ButtomGet";
 
 /* Multi idioma */
@@ -24,11 +24,29 @@ const About = () => (
             defaultMessage="My name is Kevin Haruto and I am a full stack developer."
           />
         </h4>
-        <p>Over the past 7 years, I have worked as a Full Stack developer in the field of Web/Mobile Application development.</p>
-        <p>In addition to the technical skills, I have a keen eye for design and user experience, allowing me to create intuitive and engaging interfaces that keep users coming back. Throughout my career, I have been involved in both native and cross-platform development. My dedication to critical thinking, meticulousness, and staying up-to-date with the latest technologies has enabled me to progress to the position of a senior full stack developer in my current role.</p>
-        <p>Due to the pandemic, I had to transition to remote work, and I discovered that it was an exciting and efficient method of working. I thoroughly enjoyed the experience and found it to be highly productive. I always strive to build long-term professional relationships with my clients. This approach ensures that every project I undertake becomes successful.</p>
+        <p>
+          Over the past 7 years, I have worked as a Full Stack developer in the
+          field of Web/Mobile Application development.
+        </p>
+        <p>
+          In addition to the technical skills, I have a keen eye for design and
+          user experience, allowing me to create intuitive and engaging
+          interfaces that keep users coming back. Throughout my career, I have
+          been involved in both native and cross-platform development. My
+          dedication to critical thinking, meticulousness, and staying
+          up-to-date with the latest technologies has enabled me to progress to
+          the position of a senior full stack developer in my current role.
+        </p>
+        <p>
+          Due to the pandemic, I had to transition to remote work, and I
+          discovered that it was an exciting and efficient method of working. I
+          thoroughly enjoyed the experience and found it to be highly
+          productive. I always strive to build long-term professional
+          relationships with my clients. This approach ensures that every
+          project I undertake becomes successful.
+        </p>
         <div className="mas-info">
-          <a
+          {/* <a
             href={cv}
             target="_blank"
             rel="noopener noreferrer"
@@ -36,7 +54,7 @@ const About = () => (
             className="btn-codigo buttonDownload"
           >
             <FormattedMessage id="btn-cv" defaultMessage="Download CV" />
-          </a>
+          </a> */}
           <div className="mas-info-btn">
             <Link to="/about">
               <ButtomGet />
