@@ -12,7 +12,6 @@ import cv from "../../cv/cv.pdf";
 import { FormattedMessage } from "react-intl";
 
 /* Img */
-import imgabout from "../../img/home.jpg";
 
 const About = () => {
   function readMore() {
@@ -37,9 +36,7 @@ const About = () => {
       <main>
         <section className="sobre-mi-seccion about_section" id="sobre-mi">
           <div className="sobre-mi-container">
-            <div className="sobre-mi-img-container">
-              <img alt="" className="sobre-mi-img" />
-            </div>
+            <div className="sobre-mi-img-container"></div>
             <div className="sobre-mi-info">
               <p>
                 I am a proficient and self-motivated Software Developer with 7
