@@ -38,12 +38,31 @@ const About = () => {
         <section className="sobre-mi-seccion about_section" id="sobre-mi">
           <div className="sobre-mi-container">
             <div className="sobre-mi-img-container">
-              <img src={imgabout} alt="" className="sobre-mi-img" />              
+              <img alt="" className="sobre-mi-img" />
             </div>
             <div className="sobre-mi-info">
-              <p>I am a proficient and self-motivated Software Developer with 7 years of successful experience. My passion for working in this field is immense, and I am always eager to learn the latest and most updated materials. I consistently strive to improve my skills and deliver high-quality work.</p>
-              <p>Apart from my technical expertise, I possess a keen eye for design and user experience. This allows me to create intuitive and engaging interfaces that keep users coming back for more. Whether you need a new website, an overhaul of an existing application, or a custom e-commerce platform, I have the necessary expertise and experience to deliver exceptional results.</p>
-              <p>I strongly believe in the values of hard work and honesty. Building long-term professional relationships with my clients is of utmost importance to me, as it ensures the success of every project.</p>
+              <p>
+                I am a proficient and self-motivated Software Developer with 7
+                years of successful experience. My passion for working in this
+                field is immense, and I am always eager to learn the latest and
+                most updated materials. I consistently strive to improve my
+                skills and deliver high-quality work.
+              </p>
+              <p>
+                Apart from my technical expertise, I possess a keen eye for
+                design and user experience. This allows me to create intuitive
+                and engaging interfaces that keep users coming back for more.
+                Whether you need a new website, an overhaul of an existing
+                application, or a custom e-commerce platform, I have the
+                necessary expertise and experience to deliver exceptional
+                results.
+              </p>
+              <p>
+                I strongly believe in the values of hard work and honesty.
+                Building long-term professional relationships with my clients is
+                of utmost importance to me, as it ensures the success of every
+                project.
+              </p>
               <div className="btn-info">
                 <div className="custom-btn btn-codigo" onClick={readMore}>
                   <span>Read more</span>
