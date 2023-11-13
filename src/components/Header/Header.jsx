@@ -38,7 +38,9 @@ const Header = () => {
         onClick={menuDesplegable}
       ></div>
 
-      <a href="../../App" className="logo"><span>Kevin Haruto</span></a>
+      <a href="../../App" className="logo">
+        <span>Gregory Harris</span>
+      </a>
 
       <nav className="navbar">
         <Link to="inicio" spy={true} offset={-150} href="#inicio">
