@@ -17,7 +17,7 @@ const Contact = () => (
 
     <div className="icons">
       <a
-        href="mailto:gregoryharris430@outlook.com"
+        href="mailto:kevinharuto430@gmail.com"
         target="_blank"
         rel="noopener noreferrer"
         data-aos="zoom-in"

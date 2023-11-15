@@ -15,7 +15,7 @@ const Footer = () => {
           <p>
             <FormattedMessage
               id="footer-infos"
-              defaultMessage="Page created by Gregory"
+              defaultMessage="Page created by Kevin"
             />
           </p>
           <p>&copy; {fecha}. All Rights Reserved.</p>
@@ -36,7 +36,7 @@ const Footer = () => {
             <i className="fab fa-github"></i>
           </a>
           <a
-            href="mailto:gregoryharris430@outlook.com"
+            href="mailto:kevinharuto430@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
