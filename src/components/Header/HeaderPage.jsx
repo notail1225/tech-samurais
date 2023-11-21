@@ -38,7 +38,7 @@ const HeaderPage = () => {
 
       <NavLink className="logo" to="/">
         <p>
-          <span>Kevin Haruto</span>
+          <span>Gregory Harris</span>
         </p>
       </NavLink>
 
