@@ -14,14 +14,14 @@ const Content = () => (
     <section className="inicio" id="inicio">
       <div className="titulo">
         <h1 data-aos="fade-up" data-aos-delay="500">
-          <FormattedMessage id="namess" defaultMessage="Web & Mobile Development | Web & App Design" />
+          <FormattedMessage id="namess" defaultMessage="Welcome to Tech Samurai!" />
         </h1>
-        <p className="h_intro">My mission is to continually improve each subsequent project, surpassing the quality of the previous one. This commitment has resulted in a remarkable 70% repeat hire rate, and I have had the privilege of working with certain clients for over a decade. This is more than just a job to me; it is my life's passion.</p>
+        <p className="h_intro">At Tech Samurai, we are not just builders; we are architects of digital excellence. As a leading IT agency, we specialize in providing cutting-edge solutions that transcend conventional boundaries. With a passion for technology and a commitment to client success, we bring your ideas to life through a spectrum of services.</p>
 
         <div className="wrapper">
           <a
             className="button"
-            href="https://join.skype.com/invite/veNNMueJlE80"
+            href="https://join.skype.com/invite/vY0sad0ly5ca"
             target="_blank"
             rel="noopener noreferrer"
             data-aos="fade-up"
@@ -34,7 +34,7 @@ const Content = () => (
           </a>
           <a
             className="button"
-            href="https://github.com/kstar0102/"
+            href="https://github.com/tech-ninja-lol/"
             target="_blank"
             rel="noopener noreferrer"
             data-aos="fade-up"

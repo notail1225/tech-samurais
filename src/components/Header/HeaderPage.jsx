@@ -38,7 +38,7 @@ const HeaderPage = () => {
 
       <NavLink className="logo" to="/">
         <p>
-          <span>Gregory Harris</span>
+          <span>Tech Samurai</span>
         </p>
       </NavLink>
 
@@ -47,7 +47,7 @@ const HeaderPage = () => {
           <FormattedMessage id="home" defaultMessage="Home" />
         </NavLink>
         <NavLink to="/about" offset={-150} duration={500}>
-          <FormattedMessage id="about" defaultMessage="About me" />
+          <FormattedMessage id="about" defaultMessage="About us" />
         </NavLink>
         <NavLink to="/service" offset={-150} duration={500}>
           <FormattedMessage id="services" defaultMessage="Services" />

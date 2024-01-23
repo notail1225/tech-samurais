@@ -56,8 +56,8 @@ const Project = () => {
           <SwiperSlide className="caja">
             <img src={proyectImg(`./proyecto-app-18.png`)} alt="proyectos" />
             <div className="content">
-              <h3>CoinPlus</h3>
-              <p>Trading platform for cryptocurrencies</p>
+              <h3>Coin Plus</h3>
+              <p>NFT Exchange</p>
               <p className="tecnologias">
                 React
                 <span> -</span> CSS
@@ -89,8 +89,8 @@ const Project = () => {
           <SwiperSlide className="caja">
             <img src={proyectImg(`./proyecto-app-17.png`)} alt="proyectos" />
             <div className="content">
-              <h3>PI Dogs</h3>
-              <p>Individual Project</p>
+              <h3>PI dogs</h3>
+              <p>SPA site</p>
               <p className="tecnologias">
                 React
                 <span> -</span> CSS
@@ -119,8 +119,8 @@ const Project = () => {
           <SwiperSlide className="caja">
             <img src={proyectImg(`./proyecto-6.jpg`)} alt="proyectos" />
             <div className="content">
-              <h3>Spider-Man fan page</h3>
-              <p>Fan page Spider-Man</p>
+              <h3>Pretty Clients</h3>
+              <p>Online Salon</p>
               <p className="tecnologias">
                 HTML5
                 <span> -</span> CSS
@@ -201,8 +201,8 @@ const Project = () => {
           <SwiperSlide className="caja">
             <img src={proyectImg(`./proyecto-11.jpg`)} alt="proyectos" />
             <div className="content">
-              <h3>Plus Anime</h3>
-              <p>Anime website</p>
+              <h3>NFT Market</h3>
+              <p>Sports Token Exchange Market</p>
               <p className="tecnologias">
                 HTML5
                 <span> -</span> CSS

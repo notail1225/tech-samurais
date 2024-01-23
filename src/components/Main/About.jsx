@@ -10,40 +10,49 @@ import { FormattedMessage } from "react-intl";
 const About = () => (
   <section className="sobre-mi" id="sobre-mi">
     <h2 className="heading">
-      <FormattedMessage id="about" defaultMessage="About me" />
+      <FormattedMessage id="about" defaultMessage="About us" />
     </h2>
 
     <div className="row container about_section">
       <div className="columns" data-aos="fade-right" data-aos-delay="300">
         <h3>
-          <FormattedMessage id="im" defaultMessage="Who I am" />
+          <FormattedMessage id="im" defaultMessage="Who we are" />
         </h3>
         <h4>
           <FormattedMessage
             id="descriptions"
-            defaultMessage="My name is Gregory Harris and I am a full stack developer."
+            defaultMessage="We are Tech Samurai from CN."
           />
         </h4>
         <p>
-          Over the past 7 years, I have worked as a Full Stack developer in the
+          Over the past 8 years, we have worked as a dynamic team with members of 
+          Full Stack developers, Data Scientists, Graphic Designers in the
           field of Web/Mobile Application development.
         </p>
+
+        <h4>
+          <FormattedMessage
+            id="descriptions"
+            defaultMessage="Why Choose Tech Samurai?"
+          />
+        </h4>
+
         <p>
-          In addition to the technical skills, I have a keen eye for design and
-          user experience, allowing me to create intuitive and engaging
-          interfaces that keep users coming back. Throughout my career, I have
-          been involved in both native and cross-platform development. My
-          dedication to critical thinking, meticulousness, and staying
-          up-to-date with the latest technologies has enabled me to progress to
-          the position of a senior full stack developer in my current role.
+        Innovation: We thrive on innovation, staying ahead of industry trends to 
+        deliver solutions that not only meet but exceed expectations.
+
+        Collaboration: Your vision is at the core of our process. We work closely 
+        with clients, ensuring a collaborative journey from concept to completion.
+
+        Quality: Our commitment to quality is unwavering. We adhere to the highest 
+        standards to deliver robust, scalable, and future-ready solutions.
+
+        Diverse Expertise: From coding wizards to creative minds, our diverse team 
+        brings a range of skills to the table, ensuring a holistic approach to your project.
         </p>
         <p>
-          Due to the pandemic, I had to transition to remote work, and I
-          discovered that it was an exciting and efficient method of working. I
-          thoroughly enjoyed the experience and found it to be highly
-          productive. I always strive to build long-term professional
-          relationships with my clients. This approach ensures that every
-          project I undertake becomes successful.
+        Discover the difference when technology meets creativity. Partner with Tech Samurai,
+        for a digital transformation that goes beyond the ordinary. Let's shape the future together.
         </p>
         <div className="mas-info">
           {/* <a

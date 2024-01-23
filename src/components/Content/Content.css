@@ -165,6 +165,9 @@
     background-color: #0000008f;
     border-radius: 10px;
 }
+
+
+
 .titulo {
     width: 50vw;
     text-align: left !important;
@@ -221,6 +224,16 @@
     
     .inicio .titulo h1{
         font-size: 4rem;
+    }
+
+    .inicio > .titulo {
+        width: 95vw;
+        text-align: left !important;
+        padding: 14px;
+        margin-top: 40vh !important;
+        margin-left: auto !important;
+        background-color: #0000008f;
+        border-radius: 10px;
     }
 }
 

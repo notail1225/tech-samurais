@@ -39,7 +39,7 @@ const Header = () => {
       ></div>
 
       <a href="../../App" className="logo">
-        <span>Gregory Harris</span>
+        <span>Tech Samurai</span>
       </a>
 
       <nav className="navbar">
@@ -47,7 +47,7 @@ const Header = () => {
           <FormattedMessage id="home" defaultMessage="Home" />
         </Link>
         <Link to="sobre-mi" spy={true} offset={-150} href="#sobre-mi">
-          <FormattedMessage id="about" defaultMessage="About me" />
+          <FormattedMessage id="about" defaultMessage="About us" />
         </Link>
         <Link to="servicios" spy={true} offset={-150} href="#servicios">
           <FormattedMessage id="services" defaultMessage="Services" />

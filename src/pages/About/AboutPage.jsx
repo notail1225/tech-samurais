@@ -38,27 +38,24 @@ const About = () => {
             <div className="sobre-mi-img-container"></div>
             <div className="sobre-mi-info">
               <p>
-                I am a proficient and self-motivated Software Developer with 7
-                years of successful experience. My passion for working in this
-                field is immense, and I am always eager to learn the latest and
-                most updated materials. I consistently strive to improve my
-                skills and deliver high-quality work.
+              Welcome to Tech Samurai, where innovation meets digital prowess. 
+              As a leading IT agency, we specialize in crafting exceptional digital 
+              experiences through website development, mobile app building, 
+              blockchain projects, and more. Our commitment to quality, collaboration, 
+              and diverse expertise ensures that your vision is not just 
+              realized but exceeded. With Tech Samurai, embrace a journey into 
+              the future of technology, where every solution is a masterpiece 
+              in the making. Explore the difference of a collaborative approach 
+              and let's shape tomorrow's digital landscape together. 
               </p>
               <p>
-                Apart from my technical expertise, I possess a keen eye for
-                design and user experience. This allows me to create intuitive
-                and engaging interfaces that keep users coming back for more.
-                Whether you need a new website, an overhaul of an existing
-                application, or a custom e-commerce platform, I have the
-                necessary expertise and experience to deliver exceptional
-                results.
+              Embrace the future of secure and decentralized solutions with our 
+              expertise in blockchain technology. Whether it's developing custom 
+              decentralized applications (dApps) or implementing blockchain 
+              solutions for your business, we navigate the complexities of this 
+              transformative technology.
               </p>
-              <p>
-                I strongly believe in the values of hard work and honesty.
-                Building long-term professional relationships with my clients is
-                of utmost importance to me, as it ensures the success of every
-                project.
-              </p>
+              
               <div className="btn-info">
                 <div className="custom-btn btn-codigo" onClick={readMore}>
                   <span>Read more</span>

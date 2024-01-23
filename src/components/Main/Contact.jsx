@@ -17,7 +17,7 @@ const Contact = () => (
 
     <div className="icons">
       <a
-        href="mailto:gregoryharris430@outlook.com"
+        href="mailto:fantasydev1225@gmail.com"
         target="_blank"
         rel="noopener noreferrer"
         data-aos="zoom-in"
@@ -32,7 +32,7 @@ const Contact = () => (
         <div className="text">Gmail</div>
       </a>
       <a
-        href="https://join.skype.com/invite/veNNMueJlE80"
+        href="https://join.skype.com/invite/vY0sad0ly5ca"
         target="_blank"
         rel="noopener noreferrer"
         data-aos="zoom-in"

@@ -20,7 +20,7 @@ const Service = () => (
         <p>
           <FormattedMessage
             id="development-info"
-            defaultMessage="Creation of well-structured web pages, good responsive design, attractive color palette, with interactions that give the user satisfaction when browsing the website."
+            defaultMessage="Crafted with precision and powered by the latest technologies, our websites not only capture attention but also deliver seamless user experiences. From sleek corporate pages to robust e-commerce platforms, we tailor solutions that reflect your brand's essence."
           />
         </p>
       </div>
@@ -35,7 +35,7 @@ const Service = () => (
         <p>
           <FormattedMessage
             id="development-infos"
-            defaultMessage="With my expertise in Mobile/Desktop app development, we can build high-performance mobile/desktop applications tailored specifically to Android/iOS and Windows/Linux/MacOS. Your app will leverage the full potential of the operating system, resulting in optimal performance and reliability."
+            defaultMessage="In a world that's always on the move, we understand the importance of mobile solutions. Our team designs and develops dynamic mobile applications for both iOS and Android, that engage users, enhance functionality, and seamlessly integrate with various platforms."
           />
         </p>
       </div>
