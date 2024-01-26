@@ -47,7 +47,7 @@ const Contact = () => (
         <div className="text">skype</div>
       </a>
       <a
-        href="https://discord.gg/WYATDMSmWg"
+        href="https://discord.gg/7V2ngQR9bE"
         target="_blank"
         rel="noopener noreferrer"
         data-aos="zoom-in"
