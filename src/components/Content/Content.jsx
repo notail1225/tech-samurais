@@ -47,7 +47,7 @@ const Content = () => (
           </a>
           <a
             className="button"
-            href="https://discord.gg/7V2ngQR9bE"
+            href="https://discord.gg/Pvd8E8zpMP"
             target="_blank"
             rel="noopener noreferrer"
             data-aos="fade-up"
